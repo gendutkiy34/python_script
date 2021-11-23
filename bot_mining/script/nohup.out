@@ -1,0 +1,354 @@
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 9, in <module>
+    data_transaksi=mg.baca_file(f)
+  File "/home/gendutkiy/script/bot_mining/module_general.py", line 4, in baca_file
+    dt=open(source,'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\belajar\\python\\bot_mining\\transaksi.txt'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
+Traceback (most recent call last):
+  File "/home/gendutkiy/script/bot_non_vip.py", line 25, in <module>
+    param1=me.non_vip_data(wallet)
+  File "/home/gendutkiy/script/bot_mining/module_ethermine.py", line 155, in non_vip_data
+    src=current_data['data']
+KeyError: 'data'
